@@ -19,3 +19,5 @@ require (
 	golang.org/x/sync v0.0.0-20190227155943-e225da77a7e6
 	golang.org/x/tools v0.0.0-20190227180812-8dcc6e70cdef
 )
+
+replace github.com/karrick/godirwalk v1.8.0 => github.com/adracus/godirwalk v1.8.1
